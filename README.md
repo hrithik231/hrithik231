@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Ritik Tyagi</h1>
-<h3 align="center">Future Software Developer</h3>
+<h3 align="center">Software Engineer</h3>
 
 - 🌱 I’m currently learning **full stack development**
 
