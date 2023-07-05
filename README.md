@@ -1,6 +1,6 @@
 <!-- ### Hi, i'am Ritik Tyagi 👋
 
-- 🌱 I’m currently learning Full Stack development ...
+- 🌱 I’m currently working as a Software Engineer ...
  -->
 <!--
 **hrithik231/hrithik231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
